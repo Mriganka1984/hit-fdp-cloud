@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 hi.next line of code. hello
-=======
-hi.next line of code. hello1
->>>>>>> 80e8ba5379b739ad9c1e8266f154555d79d91749
